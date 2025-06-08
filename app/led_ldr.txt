@@ -12,6 +12,15 @@ ganancia de 20, para una mejor visualización.
 
 --------------------------------------------------------------------
 
+Resistencia medida en el LDR:
+
+Con linterna: 0.3k - 0.4k (300-400 ohm)
+Luz ambiente: 2.2k
+Un poco de sombra: ~8k - ~10k
+Sombra: 30k+ (si se hace mucha sombra, 50k+)
+
+--------------------------------------------------------------------
+
 MUESTRAS (169)
 
 2048;2127
